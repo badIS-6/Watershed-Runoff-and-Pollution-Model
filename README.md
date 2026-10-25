@@ -1,5 +1,5 @@
 # Watershed Runoff & Pollution Model
-![Uploading image.png…]()
+<img width="855" height="794" alt="image" src="https://github.com/user-attachments/assets/993f7d97-8e33-410b-ae06-9c6766e544b0" />
 
 An environmental engineering model that estimates stormwater runoff and pollutant loads across different land uses.
 
@@ -12,4 +12,6 @@ An environmental engineering model that estimates stormwater runoff and pollutan
 
 ### Applications
 Watershed management, stormwater planning, and preliminary pollution assessment.
+
+![Uploading image.png…]()
 
